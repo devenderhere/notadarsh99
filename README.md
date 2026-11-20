@@ -1,4 +1,4 @@
-<h1 align="center">Yo! I am Adarsh 👋</h1>
+<h1 align="center">Yo! I am Ender 👋</h1>
 
 <h3 align="center">
 💻 Developer | 🔐 Cybersecurity Enthusiast | 🎮 Minecraft & Server Developer
@@ -62,7 +62,7 @@
 
 ## 👨‍💻 About Me
 
-- 👋 I'm **Adarsh**
+- 👋 I'm **Ender**
 - 💻 Developer & technology enthusiast
 - 🔐 Interested in **Cybersecurity**
 - 🐧 Learning and experimenting with **Kali Linux**
